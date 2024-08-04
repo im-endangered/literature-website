@@ -1104,6 +1104,9 @@ scrollup:hover {
   }
 
   .about__description {
+    /* text-align: justify; */
+
+    /* font-size: var(--h2-font-size); */
     text-align: initial;
     margin-top: 2rem;
   }
